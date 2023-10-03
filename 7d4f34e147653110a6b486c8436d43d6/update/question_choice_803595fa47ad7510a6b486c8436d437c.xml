@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="How important is this to do item?">f9a41dba47ad7510a6b486c8436d436c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 17:06:12</sys_created_on>
+        <sys_id>803595fa47ad7510a6b486c8436d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Important</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_update_name>question_choice_803595fa47ad7510a6b486c8436d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 17:06:12</sys_updated_on>
+        <text>Important</text>
+        <value>important</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=803595fa47ad7510a6b486c8436d437c"/>
+</record_update>
