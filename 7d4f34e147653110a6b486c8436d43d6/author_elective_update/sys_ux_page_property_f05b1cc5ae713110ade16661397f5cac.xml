@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="">345b1cc5dd7131105290cf6a1e1a3bbd</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:39:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f05b1cc5ae713110ade16661397f5cac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_update_name>sys_ux_page_property_f05b1cc5ae713110ade16661397f5cac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:39:44</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_393895_to_do.345b1cc5dd7131105290cf6a1e1a3bbd.root.globalSearchDataConfigId</unique_name>
+        <value>705b1cc5f8713110335a44d5c5a6a9b4</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">7d4f34e147653110a6b486c8436d43d6</application>
+        <file_path/>
+        <instance_id>bca31ca0dbf8d4d85749cac5059619ac</instance_id>
+        <instance_name>dev103152</instance_name>
+        <name>sys_ux_page_property_f05b1cc5ae713110ade16661397f5cac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="">345b1cc5dd7131105290cf6a1e1a3bbd</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-08 12:39:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>f05b1cc5ae713110ade16661397f5cac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package><sys_policy/><sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope><sys_update_name>sys_ux_page_property_f05b1cc5ae713110ade16661397f5cac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-08 12:39:44</sys_updated_on><type>string</type><unique_name>x_393895_to_do.345b1cc5dd7131105290cf6a1e1a3bbd.root.globalSearchDataConfigId</unique_name><value>705b1cc5f8713110335a44d5c5a6a9b4</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1543687429</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source>040c160047313110a6b486c8436d43f6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-05 19:27:59</sys_created_on>
+        <sys_id>6d9b140947713110a6b486c8436d4339</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b014fa6180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>2d9b1409827131105984cbdbf8a95139</update_guid>
+        <update_guid_history>2d9b1409827131105984cbdbf8a95139:-1543687429</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:40:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>5cf3cbeefb0f41348a17c24c6a7505a1</sys_id>
+        <sys_metadata>f05b1cc5ae713110ade16661397f5cac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_scope_delete display_value="">0432d2c5d91a4d0c8e4394641c9b9ea1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_f05b1cc5ae713110ade16661397f5cac</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_f05b1cc5ae713110ade16661397f5cac">6d9b140947713110a6b486c8436d4339</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:40:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

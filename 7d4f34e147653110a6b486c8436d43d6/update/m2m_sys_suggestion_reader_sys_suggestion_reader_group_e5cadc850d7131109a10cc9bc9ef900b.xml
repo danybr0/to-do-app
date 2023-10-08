@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:37:20</sys_created_on>
+        <sys_id>e5cadc850d7131109a10cc9bc9ef900b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search">6dcadc858f713110c5b0e22193a69d0b</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Search Based Suggestion Reader">c41365e077020110be280d892c5a99f2</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_e5cadc850d7131109a10cc9bc9ef900b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:37:20</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

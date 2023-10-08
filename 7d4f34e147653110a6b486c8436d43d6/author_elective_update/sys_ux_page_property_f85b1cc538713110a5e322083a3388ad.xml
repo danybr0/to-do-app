@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="To Do Workspace">345b1cc5dd7131105290cf6a1e1a3bbd</page>
+        <required_translations>[ {
+  "message" : "New To Do",
+  "comment" : ""
+}, {
+  "message" : "New To Do Project",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:39:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f85b1cc538713110a5e322083a3388ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_update_name>sys_ux_page_property_f85b1cc538713110a5e322083a3388ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:39:47</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_393895_to_do.345b1cc5dd7131105290cf6a1e1a3bbd.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New To Do"},"routeInfo":{"route":"record","fields":{"table":"x_393895_to_do_to_do","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_393895_to_do_to_do","canCreate":true}}},{"label":{"translatable":true,"message":"New To Do Project"},"routeInfo":{"route":"record","fields":{"table":"x_393895_to_do_to_do_project","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_393895_to_do_to_do_project","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=f85b1cc538713110a5e322083a3388ad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">7d4f34e147653110a6b486c8436d43d6</application>
+        <file_path/>
+        <instance_id>bca31ca0dbf8d4d85749cac5059619ac</instance_id>
+        <instance_name>dev103152</instance_name>
+        <name>sys_ux_page_property_f85b1cc538713110a5e322083a3388ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="To Do Workspace">345b1cc5dd7131105290cf6a1e1a3bbd</page><required_translations>[ {
+  "message" : "New To Do",
+  "comment" : ""
+}, {
+  "message" : "New To Do Project",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-08 12:39:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>f85b1cc538713110a5e322083a3388ad</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package><sys_policy/><sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope><sys_update_name>sys_ux_page_property_f85b1cc538713110a5e322083a3388ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-08 12:39:47</sys_updated_on><type>json</type><unique_name>x_393895_to_do.345b1cc5dd7131105290cf6a1e1a3bbd.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New To Do"},"routeInfo":{"route":"record","fields":{"table":"x_393895_to_do_to_do","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_393895_to_do_to_do","canCreate":true}}},{"label":{"translatable":true,"message":"New To Do Project"},"routeInfo":{"route":"record","fields":{"table":"x_393895_to_do_to_do_project","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_393895_to_do_to_do_project","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=f85b1cc538713110a5e322083a3388ad"/></record_update>]]></payload>
+        <payload_hash>301462451</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>2f05df8e4761f110a6b486c8436d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:39:47</sys_created_on>
+        <sys_id>795b9cc547713110a6b486c8436d4302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b0f4d03a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:39:47</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>715b9cc5b171311013ad596225a81302</update_guid>
+        <update_guid_history>715b9cc5b171311013ad596225a81302:301462451,7d5b9cc5627131100b68232cc1847f00:-1650824095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:40:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>298fe9d414a94630b029edc0983e3690</sys_id>
+        <sys_metadata>f85b1cc538713110a5e322083a3388ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_scope_delete display_value="">0432d2c5d91a4d0c8e4394641c9b9ea1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_f85b1cc538713110a5e322083a3388ad</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_f85b1cc538713110a5e322083a3388ad">795b9cc547713110a6b486c8436d4302</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:40:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

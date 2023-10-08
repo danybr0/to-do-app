@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_393895_to_do_to_do_project">active=true</condition>
+        <group/>
+        <name>To Do Workspace - x_393895_to_do_to_do_project</name>
+        <roles/>
+        <source_table>x_393895_to_do_to_do_project</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:37:24</sys_created_on>
+        <sys_id>c3ca10c547713110a6b486c8436d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace - x_393895_to_do_to_do_project</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_update_name>sys_search_source_c3ca10c547713110a6b486c8436d439b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:37:24</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3ca10c547713110a6b486c8436d439b"/>
+</record_update>
