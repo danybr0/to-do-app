@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="To Do Workspace_menu_config">315b5cc547713110a6b486c8436d43a9</configuration>
+        <description/>
+        <order>200</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:39:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b15b5cc547713110a6b486c8436d43cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Project</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_update_name>sys_ux_list_category_b15b5cc547713110a6b486c8436d43cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:39:47</sys_updated_on>
+        <title>To Do Project</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">7d4f34e147653110a6b486c8436d43d6</application>
+        <file_path/>
+        <instance_id>bca31ca0dbf8d4d85749cac5059619ac</instance_id>
+        <instance_name>dev103152</instance_name>
+        <name>sys_ux_list_category_b15b5cc547713110a6b486c8436d43cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="To Do Workspace_menu_config">315b5cc547713110a6b486c8436d43a9</configuration><description/><order>200</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-08 12:39:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b15b5cc547713110a6b486c8436d43cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do Project</sys_name><sys_overrides/><sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package><sys_policy/><sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope><sys_update_name>sys_ux_list_category_b15b5cc547713110a6b486c8436d43cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-08 12:39:47</sys_updated_on><title>To Do Project</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>-1265661157</payload_hash>
+        <record_name>To Do Project</record_name>
+        <reverted_from/>
+        <source>2f05df8e4761f110a6b486c8436d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:39:47</sys_created_on>
+        <sys_id>b95b5cc547713110a6b486c8436d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b0f4d024f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:39:47</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>fd5b5cc5d8713110f94d4b37b2f6efcb</update_guid>
+        <update_guid_history>fd5b5cc5d8713110f94d4b37b2f6efcb:-1265661157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-08 12:40:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>5fae0118de404790b1079dffce452290</sys_id>
+        <sys_metadata>b15b5cc547713110a6b486c8436d43cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Project</sys_name>
+        <sys_package display_value="To Do" source="x_393895_to_do">7d4f34e147653110a6b486c8436d43d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">7d4f34e147653110a6b486c8436d43d6</sys_scope>
+        <sys_scope_delete display_value="">0432d2c5d91a4d0c8e4394641c9b9ea1</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_b15b5cc547713110a6b486c8436d43cb</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_b15b5cc547713110a6b486c8436d43cb">b95b5cc547713110a6b486c8436d43cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-08 12:40:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
